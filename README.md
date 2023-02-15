@@ -4,7 +4,7 @@
 Context:
 Joint Entrance Examination – Main (JEE-Main), formerly All India Engineering Entrance Examination (AIEEE), is an Indian standardised computer-based test for admission to various technical undergraduate programs in engineering, architecture, and planning across colleges in India. The exam is conducted by the JEE Apex Board for Admission for B.Tech, B.Arch, etc. programs in the premier technical institutes such as the National Institutes of Technology and Indian Institutes of Information Technology are based on the rank secured in the JEE-Main. It is usually conducted twice every year.
 
-## In this dataset, the year-wise distribution of cutoffs for various IITs and NITs are collected and organized on the basis of stream, category, quota etc.
+## In this dataset, the year-wise distribution of cutoffs for various IITs and NITs are collected and organized on the basis of stream, category, quota, etc whcih have been analysed further to answer certain questions and drive insights.
 
 ### IITs and NITs:
 The Indian Institutes of Technology (IITs) are the globally appreciated engineering and technological institutes in India. IITs have maintained quality education and internationally acclaimed research facilities. IIT JEE Exam is the most popular engineering admission entrance test conducted in India.
